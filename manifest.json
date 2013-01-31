@@ -5,7 +5,7 @@
   },
 
   "location": "ticket_sidebar",
-  "defaultLocale": "en",
+  "defaultLocale": "es",
   "private": false,
   "singleInstall": true,
   "frameworkVersion": "0.5",
